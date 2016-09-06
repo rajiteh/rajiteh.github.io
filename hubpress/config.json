@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "rajiteh",
-    "repositoryName": "rajiteh.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"rajiteh","repositoryName":"rajiteh.github.io","branch":"master"},"site":{"title":"Bug Fixes & Improvements","description":"Mistakes, Lessons,  Discoveries, and Incomprehensible Ramblings. ","url":"https://rajiteh.github.io"},"socialnetwork":{"github":"rajiteh"},"theme":{"name":"Casper","url":"//rajiteh.github.io/themes/Casper"}}
